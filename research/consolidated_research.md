@@ -1833,7 +1833,7 @@ KEY DISTINCTION FOR ADVERTORIAL MECHANISM:
 The science clearly shows cellulite/trapped fluid is caused by: (1) Female connective tissue architecture, (2) Estrogen/hormonal influence on fat storage and vessel permeability, (3) Microcirculation impairment -- especially during menopause. This maps perfectly to "The Trapped Flood" mechanism. The absolution section should weaponize these stats to release the reader from decades of self-blame before introducing the solution.
 
 COMPETITIVE ANGLE:
-Multiple sources confirm "dieting and exercise alone will not help" and "Lipedema fat is resistant to traditional methods." This pre-invalidates any oral supplement approach (Golden Tree) and sets up the topical/mechanical Cool-Seal-Drain solution as addressing the ACTUAL structural problem rather than asking women to "try harder" at something that was never going to work.
+Multiple sources confirm "dieting and exercise alone will not help" and "Lipedema fat is resistant to traditional methods." This pre-invalidates any oral supplement approach and sets up the topical/mechanical Cool-Seal-Drain solution as addressing the ACTUAL structural problem rather than asking women to "try harder" at something that was never going to work.
 
 ---
 
@@ -2179,7 +2179,7 @@ COMPETITOR INTELLIGENCE ON METHOD NAMING:
 - Lancer: "Polish, Cleanse, Nourish" (verb, verb, verb)
 - QMS: "3-Step Core System" (number + noun)  
 - TRNR: "Cleanse, Serum, Moisturize" (verb, noun, verb -- less clean)
-- Golden Tree competitor: "Flush and Flow" method (two verbs, alliterative)
+- Legacy competitor: "Flush and Flow" method (two verbs, alliterative)
 - Our Cool-Seal-Drain: Three single-syllable action verbs with interpunct dots -- crisper and more mechanical-sounding than all competitors. The dots suggest precision engineering, not vague wellness.
 
 ---
@@ -2376,7 +2376,7 @@ SECTION 11 KEY INSIGHTS -- COOL STEP: MENTHOL / COOLING RELIEF / TRANSDERMAL
 
 3. THE "RUB IN AN ICE PACK" ANALOGY IS GOLD: A reviewer described Biofreeze as "a rub in an ice pack." This bridges the gap between a topical product and the trusted cold therapy women already seek. The roller serum IS literally a rub-in ice pack for legs.
 
-4. COOLING REPLACES ORAL MEDICATION: A Biofreeze reviewer said it "cut my intake of hydrocodone by at least half." This is powerful for the wedge against Golden Tree oral capsules -- women are already moving AWAY from oral solutions toward topical.
+4. COOLING REPLACES ORAL MEDICATION: A Biofreeze reviewer said it "cut my intake of hydrocodone by at least half." This is powerful for the wedge against oral capsules -- women are already moving AWAY from oral solutions toward topical.
 
 5. UK WOMEN USE DIFFERENT VOCAB: UK consumers say "lovely," "brilliant," "soothing and calming." US women say "game changer," "life saver," "amazing." The copy needs both registers.
 
@@ -2543,7 +2543,7 @@ KEY INSIGHT 1: CONSUMERS SAY "HORSE CHESTNUT" -- NEVER "AESCIN"
 Across all platforms (Reddit, WebMD reviews, Amazon, product reviews), consumers universally use "horse chestnut." The term "aescin" or "escin" appears ONLY on product labels (e.g., "standardized to 20% aescin") and in medical/scientific contexts. No consumer reviewer ever typed "aescin" in their own words. Implication for copy: introduce "horse chestnut" first, then reveal "the active compound inside it -- aescin" as an authority-building moment. Never lead with the technical term.
 
 KEY INSIGHT 2: TOPICAL PREFERENCE IS A REAL, VERBALIZED DESIRE
-Multiple reviewers explicitly stated they PREFER topical over oral. Direct quote: "I take so many supplements and medications orally I like when I find something that I can apply just to the area of concern." This is a massive wedge against Golden Tree (oral capsules). The "apply it where it hurts" positioning has direct VOC support. Women are pill-fatigued.
+Multiple reviewers explicitly stated they PREFER topical over oral. Direct quote: "I take so many supplements and medications orally I like when I find something that I can apply just to the area of concern." This is a massive wedge against oral capsules. The "apply it where it hurts" positioning has direct VOC support. Women are pill-fatigued.
 
 KEY INSIGHT 3: "SEALING" LANGUAGE ALREADY EXISTS IN MEDICAL LITERATURE
 A vein clinic (lakeshoreveins.com) literally describes aescin's mechanism as a "sealing effect on small vessels." WebMD says it makes vessel walls "less leaky." This is not copywriter invention -- the medical establishment uses SEAL language. The Cochrane review (17 RCTs, 543 participants) validates the mechanism. This gives us permission to use "SEAL" as a step name with full scientific backing.
